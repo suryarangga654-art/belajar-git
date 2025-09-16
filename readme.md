@@ -1,3 +1,4 @@
 Nama: faizal
 Kelas: xi rpl 2
-Almat: sekeawi
+Alamat: sekeawi
+cita-cita: pemain bola
